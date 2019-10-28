@@ -1,0 +1,23 @@
+@media print {
+    * {
+        border: none !important;
+        color: black !important;
+    }
+
+    .navigation-list {
+        font-size: 18px;
+        text-decoration: none !important; 
+    }
+
+    .semi-visible {
+        opacity: 1;
+    }
+
+    .footer {
+        font-weight: bold;
+    }
+
+    #invisible {
+        opacity: 1;
+    }
+}
