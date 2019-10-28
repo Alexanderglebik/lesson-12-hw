@@ -1,0 +1,10 @@
+#aside {
+    color: rgba(0,0,0, 0.6);
+    width: 120px;
+    border: 1px solid black;
+    
+}
+
+#aside ul li {
+    list-style-type: circle;
+}
