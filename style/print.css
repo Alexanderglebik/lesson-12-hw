@@ -1,4 +1,4 @@
-@media print {
+
     * {
         border: none !important;
         color: black !important;
@@ -6,7 +6,7 @@
 
     .navigation-list {
         font-size: 18px;
-        text-decoration: none !important; 
+        text-decoration: none; 
     }
 
     .semi-visible {
@@ -20,4 +20,3 @@
     #invisible {
         opacity: 1;
     }
-}
