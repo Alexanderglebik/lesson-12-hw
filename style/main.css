@@ -66,7 +66,7 @@ section {
     border: 2px dotted var(--pantone);
 }
 
-@media (min-width:600px) and (max-width:960px){
+@media (min-width:600px) and (max-width:960px)  {
     
     header nav {
         width: 100%;
@@ -83,7 +83,7 @@ section {
     }
 }
 
-@media (max-width:600px){
+@media (max-width:600px) {
     
     header {
         width: 100%;
@@ -112,6 +112,4 @@ section {
     .semi-visible + section {
         background-color: white;
     }
-}
-
 }
